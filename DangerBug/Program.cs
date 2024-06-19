@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using DangerBug;
 
+App app = new App();
+app.Run();
