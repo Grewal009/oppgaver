@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using AreaAndCircumference;
 
-Console.WriteLine("Hello, World!");
+var calculator = new Calculator();
+calculator.DisplayAllCalculations();
